@@ -1,0 +1,4 @@
+<resources>
+    <string name="framework_name">basicLib</string>
+    <string name="introduce">　MVVM轻量快速开发框架：使用JetPack中的AndroidX + ViewModel + LiveData + DataBinding组件，同时使用ViewPager2 + RxJava2 + Retrofit2 + Glide等主流框架进行搭建</string>
+</resources>
