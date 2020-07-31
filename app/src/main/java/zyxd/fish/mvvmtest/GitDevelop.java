@@ -4,4 +4,6 @@ public class GitDevelop {
     private String name;
 
     private String anchorName;
+
+    private String develop102;
 }
