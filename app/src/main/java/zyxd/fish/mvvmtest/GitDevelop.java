@@ -6,4 +6,6 @@ public class GitDevelop {
     private String anchorName;
 
     private String develop102;
+
+    private String bugFixName;
 }
